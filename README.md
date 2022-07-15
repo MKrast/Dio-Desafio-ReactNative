@@ -13,5 +13,5 @@ Construindo um app de lanterna usando o sensor de movimento com React Native.
 - StyleSheet
 - Hook useState
 - Hook useEffect
-- Add addListener to RNShake
+- Add Listener to RNShake
 - Lifecicly ReactJS
